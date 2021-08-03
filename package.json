@@ -1,14 +1,14 @@
 {
-  "name": "node-05-finished",
+  "name": "express-with-ts",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "tsc": "tsc -w",
-    "start": "nodemon dist/app.js"
+    "dev": "nodemon dist/app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hamza Zahidul Islam",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
